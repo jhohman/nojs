@@ -1,7 +1,7 @@
 nojs
 ====
 
-Definitive JavaScript library for the web.
+Definitive scalable JavaScript library for the web.
 
 Tired of all the JavaScript libraries to choose from? Tired of figuring out how you'll test all that client side JavaScript? Tired of "fixing" your pristine JavaScript for that "other" browser. You need the nojs library, the last JavaScript framework you'll ever use.
 
