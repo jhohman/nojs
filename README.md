@@ -11,4 +11,4 @@ Features:
 2. No need for testing frameworks.
 3. No special API to memorize.
 
-To use the nojs library you simple just delete all of your inline JavaScript, all of your JavaScript files, all your JavaScript tests, and all of your JavaScript include tags. Simply replace them with pure HTML and modify your server-side code. That's it!
+To use the nojs library you simply just delete all of your inline JavaScript, all of your JavaScript files, all your JavaScript tests, and all of your JavaScript include tags. Simply replace them with pure HTML and modify your server-side code. That's it!
